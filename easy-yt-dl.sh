@@ -199,7 +199,8 @@ echo
 echo "--------------------------------------------------"
 echo "🚨 warning: this tool is safe and the script works but if they caused any damage to your device,"
 echo "🚨 i am not responsible about any hardware or software damage or issues."
-echo "🚨 you use it at your own risk #"
+echo "🚨 you use it at your own risk"
+echo "🚨 I bear no responsibility for any misuse of this tool, including downloading restricted content, copyrighted music, or causing harm to others."
 echo "--------------------------------------------------"
 echo
 
