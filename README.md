@@ -1,19 +1,27 @@
-# Easy_YT_DLP-
-this script will make the python lib yt-dlp easier just with 4 steps they are clear and human friendly
-## 🚨 this script is safe but in any case i am not responsible at all if user device got corrupted or damaged after launching the script
-## 🚨 you use it at your own risk
+# Easy_YT_DLP
+
+This script makes the Python library yt-dlp easier to use — just 4 clear, human-friendly steps.
+
+## 🚨 This script is safe, but in any case I am not responsible if your device gets corrupted or damaged after running the script.
+## 🚨 You use it at your own risk.
 ## 🚨 I bear no responsibility for any misuse of this tool, including downloading restricted content, copyrighted music, or causing harm to others.
 
-## summary (how to use)
-1) download [[python3 , deno , python , ffmpeg] on linuxe , in case you didnot the script will does with quick-fix option
-2) make sure the lib installed into .venv dir , you can do that by running ( source .venv/bin/activate )
-3) then run ( pip install --upgrade yt-dlp ) this will install the lib into .venv/
-4) download this script and make it excutable run it with terminal 
-5) youcan create shortcut (appliction link) set the script path and in advanced options check run in terminal 
+## Summary (how to use)
 
-### life story none 'd care about 
-this script took from me 4 hr. almost , i am still learning how to use shell and bash and put a little efforts in this one because i 'd need a YouTube downloader 
-but the online websites are pretty rough they shows annoying ads and all , so i tried to use application on android it is fine , on laptop it is not !
-the issue not he app but i wanted to 've something simpler can be used through terminal just click Ctrl+alt+t paste the link and click enter
-but the yt-dlr was very good it is impresive how something like this is free but it was annoying i don't want to memorize how the code can be written so i decided to write this script which i makes things easier alot.
-i found it useful and decided to share.
+1. Install `python3`, `deno`, `python`, and `ffmpeg` on Linux. If you haven't, the script will handle it with a quick-fix option.
+2. Make sure the library is installed in the `.venv` directory. You can do that by running `source .venv/bin/activate`.
+3. Then run `pip install --upgrade yt-dlp` — this installs the library into `.venv/`.
+4. Download this script, make it executable, and run it from the terminal.
+5. You can create a shortcut (application link): set the script path, and in advanced options check "Run in terminal".
+
+## Life story (nobody will care about this)
+
+This script took me about 4 hours. I'm still learning how to use shell and bash, and I put a little effort into this one because I needed a YouTube downloader.
+
+The online websites are pretty rough — they show annoying ads and all that. So I tried using an app on Android, which is fine, but on laptop it's not!
+
+The issue isn't the app — I just wanted something simpler that can be used through the terminal. Just click Ctrl+Alt+T, paste the link, and hit Enter.
+
+yt-dlp itself is very good. It's impressive that something like this is free. But it was annoying — I don't want to memorize how to write the commands. So I decided to write this script, which makes things a lot easier.
+
+I found it useful and decided to share it.   
