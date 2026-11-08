@@ -1,7 +1,10 @@
 # Easy_YT_DLP-
 this script will make the python lib yt-dlp easier just with 4 steps they are clear and human friendly
+
 ##🚨 this script is safe but in any case i am not responsible at all if user device got corrupted or damaged after launching the script
+
 ##🚨 you use it at your own risk
+
 ##🚨 I bear no responsibility for any misuse of this tool, including downloading restricted content, copyrighted music, or causing harm to others.
 
 ## summary (how to use)
